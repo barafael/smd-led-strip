@@ -1,0 +1,358 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:LED D1
+U 1 1 60243F87
+P 2550 2770
+F 0 "D1" V 2589 2652 50  0000 R CNN
+F 1 "LED" V 2498 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2550 2770 50  0001 C CNN
+F 3 "~" H 2550 2770 50  0001 C CNN
+	1    2550 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D2
+U 1 1 60244734
+P 2930 2770
+F 0 "D2" V 2969 2652 50  0000 R CNN
+F 1 "LED" V 2878 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2930 2770 50  0001 C CNN
+F 3 "~" H 2930 2770 50  0001 C CNN
+	1    2930 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D3
+U 1 1 60244EDD
+P 3320 2770
+F 0 "D3" V 3359 2652 50  0000 R CNN
+F 1 "LED" V 3268 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3320 2770 50  0001 C CNN
+F 3 "~" H 3320 2770 50  0001 C CNN
+	1    3320 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D4
+U 1 1 60244F2B
+P 3700 2770
+F 0 "D4" V 3739 2652 50  0000 R CNN
+F 1 "LED" V 3648 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3700 2770 50  0001 C CNN
+F 3 "~" H 3700 2770 50  0001 C CNN
+	1    3700 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D5
+U 1 1 60246693
+P 4080 2770
+F 0 "D5" V 4119 2652 50  0000 R CNN
+F 1 "LED" V 4028 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4080 2770 50  0001 C CNN
+F 3 "~" H 4080 2770 50  0001 C CNN
+	1    4080 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D6
+U 1 1 60246711
+P 4460 2770
+F 0 "D6" V 4499 2652 50  0000 R CNN
+F 1 "LED" V 4408 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4460 2770 50  0001 C CNN
+F 3 "~" H 4460 2770 50  0001 C CNN
+	1    4460 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D7
+U 1 1 6024671B
+P 4850 2770
+F 0 "D7" V 4889 2652 50  0000 R CNN
+F 1 "LED" V 4798 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4850 2770 50  0001 C CNN
+F 3 "~" H 4850 2770 50  0001 C CNN
+	1    4850 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D8
+U 1 1 60246725
+P 5230 2770
+F 0 "D8" V 5269 2652 50  0000 R CNN
+F 1 "LED" V 5178 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5230 2770 50  0001 C CNN
+F 3 "~" H 5230 2770 50  0001 C CNN
+	1    5230 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D10
+U 1 1 6024A5A9
+P 6000 2770
+F 0 "D10" V 6039 2652 50  0000 R CNN
+F 1 "LED" V 5948 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6000 2770 50  0001 C CNN
+F 3 "~" H 6000 2770 50  0001 C CNN
+	1    6000 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D11
+U 1 1 6024A5B3
+P 6390 2770
+F 0 "D11" V 6429 2652 50  0000 R CNN
+F 1 "LED" V 6338 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6390 2770 50  0001 C CNN
+F 3 "~" H 6390 2770 50  0001 C CNN
+	1    6390 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D12
+U 1 1 6024A5BD
+P 6770 2770
+F 0 "D12" V 6809 2652 50  0000 R CNN
+F 1 "LED" V 6718 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6770 2770 50  0001 C CNN
+F 3 "~" H 6770 2770 50  0001 C CNN
+	1    6770 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D13
+U 1 1 6024A5C7
+P 7150 2770
+F 0 "D13" V 7189 2652 50  0000 R CNN
+F 1 "LED" V 7098 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7150 2770 50  0001 C CNN
+F 3 "~" H 7150 2770 50  0001 C CNN
+	1    7150 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D14
+U 1 1 6024A5D1
+P 7530 2770
+F 0 "D14" V 7569 2652 50  0000 R CNN
+F 1 "LED" V 7478 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7530 2770 50  0001 C CNN
+F 3 "~" H 7530 2770 50  0001 C CNN
+	1    7530 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D15
+U 1 1 6024A5DB
+P 7920 2770
+F 0 "D15" V 7959 2652 50  0000 R CNN
+F 1 "LED" V 7868 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7920 2770 50  0001 C CNN
+F 3 "~" H 7920 2770 50  0001 C CNN
+	1    7920 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D16
+U 1 1 6024A5E5
+P 8300 2770
+F 0 "D16" V 8339 2652 50  0000 R CNN
+F 1 "LED" V 8248 2652 50  0000 R CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8300 2770 50  0001 C CNN
+F 3 "~" H 8300 2770 50  0001 C CNN
+	1    8300 2770
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D9
+U 1 1 6024A4CB
+P 5620 2770
+F 0 "D9" V 5567 2850 50  0000 L CNN
+F 1 "LED" V 5658 2850 50  0000 L CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5620 2770 50  0001 C CNN
+F 3 "~" H 5620 2770 50  0001 C CNN
+	1    5620 2770
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2550 2620 2930 2620
+Connection ~ 2930 2620
+Wire Wire Line
+	2930 2620 3320 2620
+Connection ~ 3320 2620
+Wire Wire Line
+	3320 2620 3700 2620
+Connection ~ 3700 2620
+Wire Wire Line
+	3700 2620 4080 2620
+Connection ~ 4080 2620
+Wire Wire Line
+	4080 2620 4460 2620
+Connection ~ 4460 2620
+Wire Wire Line
+	4460 2620 4850 2620
+Connection ~ 4850 2620
+Wire Wire Line
+	4850 2620 5230 2620
+Connection ~ 5230 2620
+Wire Wire Line
+	5230 2620 5620 2620
+Connection ~ 5620 2620
+Wire Wire Line
+	5620 2620 6000 2620
+Connection ~ 6000 2620
+Wire Wire Line
+	6000 2620 6390 2620
+Connection ~ 6390 2620
+Wire Wire Line
+	6390 2620 6770 2620
+Connection ~ 6770 2620
+Wire Wire Line
+	6770 2620 7150 2620
+Connection ~ 7150 2620
+Wire Wire Line
+	7150 2620 7530 2620
+Connection ~ 7530 2620
+Wire Wire Line
+	7530 2620 7920 2620
+Connection ~ 7920 2620
+Wire Wire Line
+	7920 2620 8300 2620
+Wire Wire Line
+	8300 2920 7920 2920
+Connection ~ 2930 2920
+Wire Wire Line
+	2930 2920 2550 2920
+Connection ~ 3320 2920
+Wire Wire Line
+	3320 2920 2930 2920
+Connection ~ 3700 2920
+Wire Wire Line
+	3700 2920 3320 2920
+Connection ~ 4080 2920
+Wire Wire Line
+	4080 2920 3700 2920
+Connection ~ 4460 2920
+Wire Wire Line
+	4460 2920 4080 2920
+Connection ~ 4850 2920
+Wire Wire Line
+	4850 2920 4460 2920
+Connection ~ 5230 2920
+Wire Wire Line
+	5230 2920 4850 2920
+Connection ~ 5620 2920
+Wire Wire Line
+	5620 2920 5230 2920
+Connection ~ 6000 2920
+Wire Wire Line
+	6000 2920 5620 2920
+Connection ~ 6390 2920
+Wire Wire Line
+	6390 2920 6000 2920
+Connection ~ 6770 2920
+Wire Wire Line
+	6770 2920 6390 2920
+Connection ~ 7150 2920
+Wire Wire Line
+	7150 2920 6770 2920
+Connection ~ 7530 2920
+Wire Wire Line
+	7530 2920 7150 2920
+Connection ~ 7920 2920
+Wire Wire Line
+	7920 2920 7530 2920
+$Comp
+L power:GND #PWR0101
+U 1 1 602639BD
+P 2930 2920
+F 0 "#PWR0101" H 2930 2670 50  0001 C CNN
+F 1 "GND" H 2935 2747 50  0000 C CNN
+F 2 "" H 2930 2920 50  0001 C CNN
+F 3 "" H 2930 2920 50  0001 C CNN
+	1    2930 2920
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VDD #PWR0102
+U 1 1 602652CA
+P 2930 2620
+F 0 "#PWR0102" H 2930 2470 50  0001 C CNN
+F 1 "VDD" H 2945 2793 50  0000 C CNN
+F 2 "" H 2930 2620 50  0001 C CNN
+F 3 "" H 2930 2620 50  0001 C CNN
+	1    2930 2620
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Heatsink_Pad HS1
+U 1 1 6026D0CD
+P 2320 2620
+F 0 "HS1" V 2599 2613 50  0000 C CNN
+F 1 "Heatsink_Pad" V 2508 2613 50  0000 C CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit" H 2332 2570 50  0001 C CNN
+F 3 "~" H 2332 2570 50  0001 C CNN
+	1    2320 2620
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2420 2620 2550 2620
+Connection ~ 2550 2620
+$Comp
+L Mechanical:Heatsink_Pad HS2
+U 1 1 6026E581
+P 2320 2920
+F 0 "HS2" V 2599 2913 50  0000 C CNN
+F 1 "Heatsink_Pad" V 2508 2913 50  0000 C CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit" H 2332 2870 50  0001 C CNN
+F 3 "~" H 2332 2870 50  0001 C CNN
+	1    2320 2920
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2420 2920 2550 2920
+Connection ~ 2550 2920
+$Comp
+L Mechanical:Heatsink_Pad HS4
+U 1 1 60270094
+P 8700 2920
+F 0 "HS4" V 8979 2913 50  0000 C CNN
+F 1 "Heatsink_Pad" V 8888 2913 50  0000 C CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit" H 8712 2870 50  0001 C CNN
+F 3 "~" H 8712 2870 50  0001 C CNN
+	1    8700 2920
+	0    1    1    0   
+$EndComp
+$Comp
+L Mechanical:Heatsink_Pad HS3
+U 1 1 602701B2
+P 8700 2620
+F 0 "HS3" V 8979 2613 50  0000 C CNN
+F 1 "Heatsink_Pad" V 8888 2613 50  0000 C CNN
+F 2 "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit" H 8712 2570 50  0001 C CNN
+F 3 "~" H 8712 2570 50  0001 C CNN
+	1    8700 2620
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8300 2920 8600 2920
+Connection ~ 8300 2920
+Wire Wire Line
+	8600 2620 8300 2620
+Connection ~ 8300 2620
+$EndSCHEMATC
